@@ -13,3 +13,4 @@ geopy
 coinbase
 base58
 tronpy
+python-telegram-bot==20.7
