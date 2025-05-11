@@ -1,0 +1,2 @@
+TOKEN = '7927447910:AAFzREIc0WtRyeY3Km2hdnespqw5rn-m7aw'
+ADMIN_ID = @AleksIT
